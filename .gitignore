@@ -1,0 +1,9 @@
+# ディレクトリを指定する場合
+node_modules/
+
+#ファイルを指定
+package-lock.json
+
+#拡張子を指定
+*.com
+*.exe
